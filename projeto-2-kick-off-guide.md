@@ -1,14 +1,22 @@
 # 🎯 Projeto 2: Guia de Tradução Técnica & Triagem Consultiva
 ## Escopo: Alinhamento de Perfil (Kick-off) para Engenharia de Software Back-end
 
-Este projeto materializa o papel do Tech Recruiter como um parceiro estratégico da engenharia (Business Partner), demonstrando domínio conceitual de arquitetura e capacidade de tomada de decisão no funil de triagem.
+Este projeto materializa o papel do Tech Recruiter como um parceiro estratégico da engenharia (Business Partner).
 
 ### 🛠️ 1. Matriz de Tradução Técnica (Java Back-end)
 
-Apresenta o mapeamento entre os pedidos do gestor de TI, as palavras-chave buscadas pelo recrutador e o respectivo contexto de gestão, cobrindo tecnologias como Spring Boot, Microsserviços (Docker/Kubernetes), Bancos de Dados Híbridos (PostgreSQL/MongoDB/Redis) e Garantia de Qualidade (JUnit/TDD).
+O guia inclui uma tabela completa relacionando as demandas do Gestor de TI com as keywords e o contexto de gestão para tecnologias como `Java`, `Spring Boot`, Microsserviços, Bancos de Dados Híbridos e Garantia de Qualidade (`JUnit`, `TDD`), conforme detalhado no documento original.
 
 ### 📝 2. Roteiro de Kick-off com o Tech Lead
-Perguntas aplicadas para identificar a real dor do negócio e evitar alinhamentos superficiais, abordando formato de contratação, critérios eliminatórios e o principal desafio técnico do primeiro mês.
+Perguntas consultivas para a reunião de abertura de vaga:
+1. **Alinhamento de Contratação:** Formato (CLT/PJ) e modelo de trabalho (Remoto/Híbrido/Presencial).
+2. **Triagem Técnica Cirúrgica:** O que é indispensável no dia 1 versus *nice-to-have*.
+3. **Contexto de Entrega:** Principal desafio técnico do primeiro mês.
 
 ### 🧠 3. Case Prático de Tomada de Decisão & Candidate Experience
-Análise de cenário prático simulando uma reprovação consultiva voltada para a otimização do tempo de rampa da equipe de engenharia, acompanhada de um modelo de feedback humanizado para o candidato.
+* **Cenário:** Candidato com foco em PHP aplicando para vaga urgente em Java.
+* **Parecer de TA:** Reprovado para esta janela devido ao tempo de *ramp-up*.
+* **Ação Estratégica:** Encaminhamento para o Banco de Talentos de PHP.
+
+#### Mensagem de Negativa Humanizada:
+Você pode encontrar a mensagem completa de feedback humanizado direcionada ao candidato no documento original.
