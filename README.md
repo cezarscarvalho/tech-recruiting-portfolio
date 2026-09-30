@@ -57,4 +57,4 @@ Perguntas aplicadas para identificar a real dor do negócio e evitar "vagas papa
     > *"Sua sólida experiência em PHP e MySQL é surpreendente e chamou a nossa atenção. Mas, no momento, esta vaga exige uma vivência prática e imediata em Java. Manteremos seu currículo em nosso Banco de Talentos para futuras oportunidades em PHP. Muito obrigado pelo seu interesse."*
 
 ---
-✉️ **Contato:** cezar.souza03@gmail.com | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/))
+✉️ **Contato:** cezar.souza03@gmail.com | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/]))
