@@ -1,28 +1,17 @@
-# 📊 Projeto 1: Mapeamento de Mercado (Market Mapping)
-## Escopo: Engenharia de Dados (Pleno a Sênior) – Brasil
+# 📊 Projeto 1: Mapeamento de Mercado – Engenharia de Dados (Python/AWS)
+*Análise estatística de Sourcing para posições de nível Pleno/Sênior, respeitando estritamente as diretrizes da LGPD.*
 
-Este projeto demonstra a aplicação de inteligência de mercado e sourcing estratégico para mapear profissionais de dados, identificando tendências de contratação, preferências contratuais e distribuição geográfica sem violar as diretrizes da LGPD.
-
-### 🔍 1. Engenharia de Busca (X-Ray Search)
-Sintaxe avançada utilizada no Google para mapear perfis públicos do LinkedIn, contornando limitações comerciais de filtros da plataforma:
-
+### 1. Engenharia de Busca (X-Ray Search)
+Construção da sintaxe utilizada para mineração de perfis públicos via motores de busca:
 ```text
 site:://linkedin.com ("Engenheiro de Dados" OR "Data Engineer") "Python" ("AWS" OR "S3") -Junior -Júnior -Estagiario -Estagiário -Intern -Trainee
 ```
 
-### 📈 2. Indicadores Estratégicos Extraídos (Amostragem: 15 Profissionais Reais)
+### 2. Indicadores Estratégicos Extraídos (Amostragem: 15 Perfis)
+* **Distribuição Geográfica:** Concentração em São Paulo (33%) e Curitiba/Paraná (20%), com forte descentralização em Manaus (13%) e outras capitais. 
+* **Cultura de Trabalho:** 63% dos profissionais mapeados atuam no regime 100% Remoto, indicando que a flexibilidade geográfica é o maior fator de atratividade para esta stack.
+* **Tempo Médio de Casa (Tenure):** Média de 29 meses de permanência na empresa atual, indicando uma janela ideal de abordagem para atração de candidatos estáveis.
+* **Ecossistema Satélite Comum:** Alta incidência de ferramentas como *Apache Spark/PySpark, Databricks, Airflow e Snowflake*.
 
-* **Distribuição Geográfica:** 
-  * São Paulo: 33% | Curitiba/Paraná: 20% | Manaus: 13% | Outras Regiões (RJ, BSB, Recife, TO, Pará): 34%.
-  * *Insight de Negócio:* O mercado é altamente descentralizado. Restringir buscas geograficamente estrangula o funil de contratação.
-
-* **Cultura e Modelo de Trabalho Dominante:**
-  * 100% Remoto: 63% | Híbrido Flexível: 27% | Presencial Rígido: 10%.
-  * *Insight de Negócio:* Profissionais seniores priorizam regimes remotos. Ofertas presenciais exigem orçamentos salariais acima da média de mercado para compensar o deslocamento.
-
-* **Tempo Médio de Casa (Tenure):**
-  * A média de permanência identificada na empresa atual é de **29 meses** (~2,4 anos).
-  * *Insight de Negócio:* Profissionais que ultrapassam a barreira dos 24 meses entram na "janela ideal de abordagem", demonstrando maior propensão a avaliar propostas de Headhunting.
-
-* **Ecossistema Técnico Satélite:**
-  * Além de Python e AWS, as ferramentas mais citadas nos perfis foram: **SQL, Apache Spark (PySpark), Databricks, Airflow e Snowflake**.
+---
+↩️ **[Voltar para a Página Inicial](https://github.com)**
