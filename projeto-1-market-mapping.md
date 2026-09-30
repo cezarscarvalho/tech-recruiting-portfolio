@@ -14,4 +14,4 @@ site:://linkedin.com ("Engenheiro de Dados" OR "Data Engineer") "Python" ("AWS" 
 * **Ecossistema Satélite Comum:** Alta incidência de ferramentas como *Apache Spark/PySpark, Databricks, Airflow e Snowflake*.
 
 ---
-↩️ **[Voltar para a Página Inicial](https://github.com)**
+↩️ **[Voltar para a Página Inicial](https://github.com/cezarscarvalho/tech-recruiting-portfolio/blob/main/README.md)**
