@@ -1,22 +1,23 @@
-# 🎯 Projeto 2: Guia de Tradução Técnica & Triagem Consultiva
-## Escopo: Alinhamento de Perfil (Kick-off) para Engenharia de Software Back-end
+# 🎯 Projeto 2: Guia de Tradução Técnica & Triagem Consultiva (Java/Back-end)
+*Metodologia de Kick-off e alinhamento de perfil para posições críticas de desenvolvimento de software.*
 
-Este projeto materializa o papel do Tech Recruiter como um parceiro estratégico da engenharia (Business Partner).
+### 1. Matriz de Alinhamento Técnico (O que o Gestor pede vs. O que o RH busca)
+* **"Foco em Java":** Mapeamento voltado para frameworks modernos como *Spring Boot, Jakarta EE e versões do Java 11 a 21*.
+* **"Arquitetura de Microsserviços":** Investigação de conhecimentos práticos em *REST APIs, Docker, Kubernetes e Spring Cloud*.
+* **"Banco de Dados Híbridos":** Validação de experiência com bancos relacionais (*PostgreSQL/MySQL*) e não-relacionais (*MongoDB/Redis*).
+* **"Qualidade de Código":** Triagem focada em cultura de testes automatizados (*JUnit, Mockito, TDD*) e esteiras de *CI/CD*.
 
-### 🛠️ 1. Matriz de Tradução Técnica (Java Back-end)
+### 2. Roteiro de Triagem com o Tech Lead
+Perguntas aplicadas para identificar a real dor do negócio e evitar "vagas papai noel":
+1. *Qual é o formato de contratação (CLT/PJ) e modelo de trabalho? Se híbrido, qual a escala?*
+2. *O inglês ou a graduação são critérios estritamente eliminatórios ou avaliamos competência prática e perfis autodidatas?*
+3. *Qual será o principal desafio técnico que essa pessoa assumirá no primeiro mês para apoiar o time engenharia?*
 
-O guia inclui uma tabela completa relacionando as demandas do Gestor de TI com as keywords e o contexto de gestão para tecnologias como `Java`, `Spring Boot`, Microsserviços, Bancos de Dados Híbridos e Garantia de Qualidade (`JUnit`, `TDD`), conforme detalhado no documento original.
+### 3. Case Prático de Tomada de Decisão & Candidate Experience
+* **Cenário:** Candidato com 5 anos de sólida experiência em PHP/MySQL, mas com conhecimento apenas teórico em Java aplicado a uma vaga de urgência em microsserviços.
+* **Ação Estratégica:** Reprovação consultiva com foco em otimização do tempo de rampa (ramp-up) da equipe de engenharia.
+* **Mensagem de Negativa Humanizada enviada:**
+  > *"Sua sólida experiência em PHP e MySQL é surpreendente e chamou a nossa atenção. Mas, no momento, esta vaga exige uma vivência prática e imediata em Java. Manteremos seu currículo em nosso Banco de Talentos para futuras oportunidades em PHP. Muito obrigado pelo seu interesse."*
 
-### 📝 2. Roteiro de Kick-off com o Tech Lead
-Perguntas consultivas para a reunião de abertura de vaga:
-1. **Alinhamento de Contratação:** Formato (CLT/PJ) e modelo de trabalho (Remoto/Híbrido/Presencial).
-2. **Triagem Técnica Cirúrgica:** O que é indispensável no dia 1 versus *nice-to-have*.
-3. **Contexto de Entrega:** Principal desafio técnico do primeiro mês.
-
-### 🧠 3. Case Prático de Tomada de Decisão & Candidate Experience
-* **Cenário:** Candidato com foco em PHP aplicando para vaga urgente em Java.
-* **Parecer de TA:** Reprovado para esta janela devido ao tempo de *ramp-up*.
-* **Ação Estratégica:** Encaminhamento para o Banco de Talentos de PHP.
-
-#### Mensagem de Negativa Humanizada:
-Você pode encontrar a mensagem completa de feedback humanizado direcionada ao candidato no documento original.
+---
+↩️ **[Voltar para a Página Inicial]((https://github.com/cezarscarvalho/tech-recruiting-portfolio))**
