@@ -8,6 +8,8 @@ Apresento meu portfólio unindo Gestão de TI e Tech Recruiting para triagem cir
 ## 📂 Índice de Projetos
 * 📊 **[Projeto 1: Mapeamento de Mercado – Engenharia de Dados (Python/AWS)](./projeto-1-market-mapping.md)** - *Sourcing estatístico focado em dados.*
 * 🎯 **[Projeto 2: Guia de Tradução Técnica & Triagem Consultiva (Java/Back-end)](./projeto-2-kick-off-guide.md)** - *Matriz de alinhamento e roteiro de Kick-off.*
+* ✉️ **[Projeto 3: Playbook de Abordagem Avançada (Candidate Outreach)](./projeto-3-candidate-outreach.md)** - *Estratégias e templates de hunting e atração de talentos.*
+
 
 ## 🛠️ Competências
 * **Talent Acquisition:** Hunting, Booleana, X-Ray, Entrevistas por Competências.
